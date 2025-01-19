@@ -11,9 +11,9 @@ The front-end was built using Gadget and React Native, and has capabilities for 
 
 ## Requirements 
 
-As long as you have a WebGL capable device, you can view any of our pre trained models through [jarvis.diy](https://jarvis.diy/ !
+As long as you have a WebGL capable device, you can view any of our pre trained models through [jarvis.diy](https://jarvis.diy/) !
 
-To complete the backend processing by yourself, including the training of the 3d model, there are several software and hardware requirements. 
+To complete the backend processing by yourself, including the training of the 3D model, there are several software and hardware requirements. 
 
 For software, the nerfstudio Docker installation (utilized for Gaussian Splatting) is necessary, which can be found here: https://docs.nerf.studio/quickstart/installation.html.
 
