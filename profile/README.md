@@ -13,6 +13,6 @@ The front-end was built using Gadget and React Native, and has capabilities for 
 
 To complete the backend processing, including the rendering of the 3d model, there are several software and hardware requirements. 
 
-For software, the Nerve Studio Docker installation (utilized for Gaussian Splatting) is necessary, which can be found here: https://docs.nerf.studio/quickstart/installation.html.
+For software, the nerfstudio Docker installation (utilized for Gaussian Splatting) is necessary, which can be found here: https://docs.nerf.studio/quickstart/installation.html.
 
-For hardware, processing of the actual model requires [hardware info]
+For hardware, processing of the actual model requires at least a 20X0 NVIDIA GPU as outlined by nerfstudio requirements.
