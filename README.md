@@ -7,7 +7,7 @@ To view the pre-made 3d models the site jarvis.diy can be visited.
 
 JARVIS utilizes a technique known as Gaussian Splatting (which can be read about here: https://arxiv.org/abs/2308.04079), a technique that uses blurs rather than points, allowing the processing of the 3d model to be much faster. The hardware utilizes a Raspberry Pi 4 connected to 4 web-cameras in order to capture the images to feed to the model. The images are uploaded to AWS, downloaded by the server, and then uploaded to processing.
 
-The front-end was built using Gadget and React Native, and has capabilities for logins based on account and Google (auth0 integration), searching for images by ID, and searching for images based on username.
+The front-end was built using Gadget and React Native, and has capabilities for logins based on account and Google (oAuth2 integration), searching for images by ID, and searching for images based on username.
 
 ## Requirements 
 
