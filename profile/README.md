@@ -1,6 +1,6 @@
 # JARVIS - Jarvis's Awesome Realtime Virtual Imaging Systems
 
-![grab-landing-page](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
+![jarvis-banner](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
 
 ## Introduction:
 
