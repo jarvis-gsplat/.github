@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-JARVIS (or Jarvis's Awesome Realtime Virtual Imaging Systems) is an innovative integration of physical and digital processing used to produce a 3d model of captured space using images of the location. The custom-made hardware, utilizing 3 cameras to capture the surroundings, automatically uploads the photos to the backend server, allowing these images to produce a model for a given user on the website. 
+JARVIS (or Jarvis's Awesome Realtime Virtual Imaging Systems) is an innovative integration of physical and digital processing used to produce a 3D model of captured space using images of the location. The custom-made hardware utilizies 4 cameras connected to a Raspberry Pi 4, and automatically uploads the photos to the backend server, allowing these images to produce a model for a given user on the website. 
 To view the pre-made 3d models the site [jarvis.diy](https://jarvis.diy/) can be visited.
 
 JARVIS utilizes Gaussian Splatting (read: https://arxiv.org/abs/2308.04079), a technique that uses gaussians (blurs) rather than points, allowing the processing of the 3d model to be much faster. The hardware utilizes a Raspberry Pi 4 connected to 3 web-cameras in order to capture the images to feed to the model. The images are uploaded to AWS S3, downloaded by the server, and then marked for processing by the GPU.
