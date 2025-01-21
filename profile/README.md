@@ -3,6 +3,8 @@
 ![jarvis-banner](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
 | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [Vlog](https://www.youtube.com/watch?v=1BF2jMhQyDg) |
 
+![jarvis-demo](https://github.com/jarvis-gsplat/.github/blob/main/profile/jarvis%20input%20to%20output%20demo.gif)
+
 ## Introduction:
 
 JARVIS (or Jarvis's Awesome Realtime Virtual Imaging Systems) is an innovative integration of physical and digital processing used to produce a 3D model of captured space using images of the location. The custom-made hardware utilizies 4 cameras connected to a Raspberry Pi 4, and automatically uploads the photos to the backend server, allowing these images to produce a model for a given user on the website. 
