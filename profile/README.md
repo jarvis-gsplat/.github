@@ -1,4 +1,4 @@
-# JARVIS - Jarvis's Awesome Realtime Virtual Imaging Systems
+# [JARVIS](https://github.com/jarvis-gsplat) - Jarvis's Awesome Realtime Virtual Imaging Systems
 
 ![jarvis-banner](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
 | [Live website](https://jarvis.diy/) | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [DoraHacks](https://dorahacks.io/buidl/21579) | [Vlog](https://www.youtube.com/watch?v=1BF2jMhQyDg) |
