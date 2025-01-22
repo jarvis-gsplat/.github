@@ -32,7 +32,7 @@ We built [jarvis.diy](https://jarvis.diy/) using React and Vite, all powered in 
 ![aJAJAA.JPG](https://cdn.dorahacks.io/static/files/1947eb27d047b7715ba1e034fe795f3a.jpg)
 
 Gaussian splat WebGL viewer demo (capable of 60fps on low-end laptops):
-![youtube](https://youtu.be/QPllF-6R4TI)
+[![JARVIS webgl demo](https://jarvis-splatting.s3.us-east-2.amazonaws.com/splat/uott+room.jfif)](https://youtu.be/QPllF-6R4TI)
 
 ## BONUS: A Behind-the-scene video!
 [![JARVIS video demo](https://cdn.dorahacks.io/static/files/19485270eaa559d39c0c24f48fd9af7a.png)](https://www.youtube.com/watch?v=1BF2jMhQyDg)
