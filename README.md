@@ -1,5 +1,5 @@
 ![jarvis-banner](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
-| [Live website](https://jarvis.diy/) | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [Full Writeup](https://dorahacks.io/buidl/21579) |
+| [Live website](https://jarvis.diy/) | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [DoraHacks](https://dorahacks.io/buidl/21579) |
 
 ![jarvis-demo](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20demo.gif)
 
