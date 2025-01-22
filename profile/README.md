@@ -3,7 +3,7 @@
 ![jarvis-banner](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
 | [Live website](https://jarvis.diy/) | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [DoraHacks](https://dorahacks.io/buidl/21579) | [Vlog](https://www.youtube.com/watch?v=1BF2jMhQyDg) |
 
-![jarvis-demo](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20input%20to%20output%20demo.gif)
+![jarvis-demo](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20demo.gif)
 
 ## Introduction:
 
