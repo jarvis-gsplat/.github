@@ -1,14 +1,14 @@
 # [JARVIS](https://github.com/jarvis-gsplat) - Jarvis's Awesome Realtime Virtual Imaging Systems
 
 ![jarvis-banner](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20banner%20black.gif)
-| [Live website](https://jarvis.diy/) | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [DoraHacks](https://dorahacks.io/buidl/21579) | [Vlog](https://www.youtube.com/watch?v=1BF2jMhQyDg) |
+| [Live website](https://jarvis-vision.gadget.app/) | [Demo](https://www.youtube.com/watch?v=gfFOG19a_GA) | [DoraHacks](https://dorahacks.io/buidl/21579) | [Vlog](https://www.youtube.com/watch?v=1BF2jMhQyDg) |
 
 ![jarvis-demo](https://raw.githubusercontent.com/jarvis-gsplat/.github/refs/heads/main/profile/jarvis%20demo.gif)
 
 ## Introduction:
 
 JARVIS (or Jarvis's Awesome Realtime Virtual Imaging Systems) is an innovative integration of physical and digital processing used to produce a 3D model of captured space using images of the location. The custom-made hardware utilizies 4 cameras connected to a Raspberry Pi 4, and automatically uploads the photos to the backend server, allowing these images to produce a model for a given user on the website. 
-To view the pre-made 3d models the site [jarvis.diy](https://jarvis.diy/) can be visited.
+To view the pre-made 3d models the site [JARVIS](https://jarvis-vision.gadget.app/) can be visited.
 
 JARVIS utilizes [Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), a technique that uses gaussians (blurs) rather than points, allowing the processing of the 3d model to be much faster. The hardware utilizes a Raspberry Pi 4 connected to 3 web-cameras in order to capture the images to feed to the model. The images are uploaded to AWS S3, downloaded by the server, and then marked for processing by the GPU.
 
@@ -18,7 +18,7 @@ The front-end was built using Gadget and React Native, and has capabilities for 
 
 ## Requirements 
 
-As long as you have a WebGL capable device, you can view any of our pre trained models through [jarvis.diy](https://jarvis.diy/) !
+As long as you have a WebGL capable device, you can view any of our pre rendered scenes through [JARVIS](https://jarvis-vision.gadget.app/) !
 
 To complete the backend processing by yourself, including the training of the 3D model, there are several software and hardware requirements. 
 
